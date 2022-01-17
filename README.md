@@ -1,4 +1,5 @@
 # Business Intelligence and Analytics with Tableau
+- Tableau Public: https://public.tableau.com/app/profile/kylie.lee
 
 ## Goal of the project
 - Define a business question
